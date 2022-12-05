@@ -37,9 +37,11 @@ Role: Scripter
 Role: Scripter, UI Designer, and Composer.
 
 ## Balloon Popping Simulator
-Link: No Link Yet
+Link: *No Link Yet*
+
 Role: Scripter
 
 ## My Life Tycoon
-Link: No Link Yet
+Link: *No Link Yet*
+
 Role: Scripter/Commissons
