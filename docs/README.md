@@ -18,7 +18,9 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 
 # Profiles
 [Talent Hub](https://talent.roblox.com/creators/1016351019) 
+
 [GitHub](https://github.com/OOOPil?tab=repositories)
+
 [Replit](https://replit.com/@Yo-BoyzIts-CJ?username=Yo-BoyzIts-CJ)
 
 # Rates
