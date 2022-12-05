@@ -95,12 +95,31 @@ I Prefer **USD** (PayPal, Zelle, Wire Transfer)
 [Tycoon System](https://youtu.be/EqbckUJ2TgQ)
 
 # Pictures
+
+### Gamepasses
+------------
 ![image](https://user-images.githubusercontent.com/82431866/205731159-eafa297e-e7dd-4104-a3ac-7036b851ef6b.png)
+
+### Inventory
+------------
 ![image](https://user-images.githubusercontent.com/82431866/205536066-90549882-dc41-4724-8777-6abe16bbd2e0.png)
+
+### Pistol
+------------
 ![image](https://user-images.githubusercontent.com/82431866/205536909-a783e315-92f6-4cce-b87c-b077d8e7546e.png)
+
+### Walkspeed
+------------
 ![image](https://user-images.githubusercontent.com/82431866/205537076-f92a6fae-5cfc-4d31-bcc4-8c0adc088c67.png)
+
+### 2D Runner
+------------
 ![image](https://user-images.githubusercontent.com/82431866/205537774-99ffb4e8-4bf2-4acc-83b1-cc32b294bee0.png)
+
+### Tycoon
+------------
 ![image](https://user-images.githubusercontent.com/82431866/205731187-dc9645d5-f580-430f-9a69-b09e37712d8b.png)
+
 # Scripts
 
 ### Transparency Script
