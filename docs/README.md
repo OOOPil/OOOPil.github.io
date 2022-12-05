@@ -12,26 +12,34 @@ Replit: https://replit.com/@Yo-BoyzIts-CJ?username=Yo-BoyzIts-CJ
 
 # Creations:
 
-Name: Roblox but every second you gain +1 transparency
+# Roblox but every second you gain +1 transparency
+
 Link: www.roblox.com/games/11646927116/Roblox-but-every-second-you-gain-1-transparency 
+
 Role: Owner, Scripter, Modeler, Composer, and UI Designer.
 
-Name: Emoji Clicker
+
+# Emoji Clicker
+
 Link: www.roblox.com/games/5181978738/EMOJIS
+
 Role: Co-Owner, and Scripter.
 
-Name: Clicking Simulator
+
+# Clicking Simulator
+
 Link: www.roblox.com/games/10298221799/Clicking-Simulator-3-0-VOICE-CHAT-BETA
+
 Role: Scripter.
 
-Name: Neo Night Tokyo
+# Neo Night Tokyo
 Link: www.roblox.com/games/11313452152/Neo-Night-Tokyo
 Role: Scripter, UI Designer, and Composer.
 
-Name: Balloon Popping Simulator
+# Balloon Popping Simulator
 Link: No Link Yet
 Role: Scripter
 
-Name: My Life Tycoon
+# My Life Tycoon
 Link: No Link Yet
 Role: Scripter/Commissons
