@@ -86,11 +86,13 @@ I Prefer **USD** (PayPal, Zelle, Wire Transfer)
 
 # Videos 
 
-[Inventory System](https://user-images.githubusercontent.com/82431866/205545694-dc750c18-d4bc-4e44-9cfa-afe51fc917bb.mp4)
+[Inventory System](https://youtu.be/KAMqxg5YLN4)
 
-[Gun System](https://user-images.githubusercontent.com/82431866/205545000-6c7049de-28ba-425b-b284-242787011bc4.mp4)
+[Gun System](https://youtu.be/sYhfifgTjOU)
 
-[Transparency/Walkspeed System](https://user-images.githubusercontent.com/82431866/205545536-e2289529-6303-4fc2-b6a0-b342b4a7782f.mp4)
+[Car Spawning System](https://youtu.be/ZYbz1KXMbaM)
+
+[Tycoon System](https://youtu.be/EqbckUJ2TgQ)
 
 # Pictures
 ![image](https://user-images.githubusercontent.com/82431866/205731159-eafa297e-e7dd-4104-a3ac-7036b851ef6b.png)
