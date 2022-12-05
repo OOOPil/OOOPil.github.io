@@ -27,19 +27,32 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 
 # Rates
 
-One time project: **30,000-300,000 R$**, or **150-750 USD**, and **1%-20%** commission. **50/50, or 25/75** upfront. (negotiable)
+### One time project: 
 
-Or if this is a continuous project, like regular model creations: **5000-50,000 R$** per model/script, or **15-150 USD** per model/script. And **5%-50%** commission. (Depends on the model/script, smaller/basic models/scripts will be cheaper)
+**Robux:** *30,000-300,000 R$*
 
+**USD:** *150-750 USD*
+
+**Payment Type:** *Upfront/Partial Upfront (10-100%)*
+
+------------------
+
+### Continuous project (models, scripts): 
+
+**Robux Per Task:** *5000-50,000 R$* **AND** *5%-50%* commission.
+
+**USD Per Task:** *15-150 USD* **AND** *5%-50%* commission.
+
+**Payment Type:** *Upon Completion/Upfront/Partial Upfront*
+
+*Depends on the task, smaller task will be cheaper...*
+
+----------------
 
 I Prefer **USD** (PayPal, Zelle, Wire Transfer)
 
-—————————————-
+**(All of my rates are negotiable, these are just a rough estimates!)**
 
-**(This is negotiable, just a rough estimate)**
-
-
---------------------
 # Creations:
 
 ## Roblox but every second you gain +1 transparency
