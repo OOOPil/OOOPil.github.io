@@ -83,7 +83,6 @@ I Prefer **USD** (PayPal, Zelle, Wire Transfer)
 ![image](https://user-images.githubusercontent.com/82431866/205536066-90549882-dc41-4724-8777-6abe16bbd2e0.png)
 ![image](https://user-images.githubusercontent.com/82431866/205536909-a783e315-92f6-4cce-b87c-b077d8e7546e.png)
 ![image](https://user-images.githubusercontent.com/82431866/205537076-f92a6fae-5cfc-4d31-bcc4-8c0adc088c67.png)
-![image](https://images-ext-2.discordapp.net/external/5nXA4FRWvYKK9QyKX33fkr17KzfXVY9FG9Q4d9glq2E/https/tr.rbxcdn.com/190ca87ad66cc9915565defc23855146/500/280/Image/Jpeg)
 
 
 
