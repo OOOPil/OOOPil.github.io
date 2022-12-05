@@ -27,7 +27,7 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 
 # Rates
 
-### One time project: 
+### One time projects: 
 
 **Robux:** *30,000-300,000 R$*
 
@@ -35,9 +35,11 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 
 **Payment Type:** *Upfront/Partial Upfront (10-100%)*
 
+*Depends on the project, smaller projects will be cheaper...*
+
 ------------------
 
-### Continuous project (models, scripts): 
+### Continuous projects (models, scripts): 
 
 **Robux Per Task:** *5000-50,000 R$* **AND** *5%-50%* commission.
 
@@ -45,7 +47,7 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 
 **Payment Type:** *Upon Completion/Upfront/Partial Upfront*
 
-*Depends on the task, smaller task will be cheaper...*
+*Depends on the task, smaller tasks will be cheaper...*
 
 ----------------
 
