@@ -10,7 +10,7 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 - GFX Maker
 
 # About Me
-- I am a scripter with 7+ years of experience in over 6 languages.
+- I am a scripter with 7+ years of experience in over 8 languages.
 - I am currently 15 years old
 - I respond very quickly to messages and direct messages.
 - I am always ready to learn, and not afraid of making mistakes or asking for help.
