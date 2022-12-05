@@ -1,6 +1,6 @@
 # About Me
 - I am a scripter with 7+ years of experience in over 6 languages.
-- I am currently 16 years old
+- I am currently 15 years old
 - I respond very quickly to messages and direct messages.
 - I am always ready to learn, and not afraid of making mistakes or asking for help.
 - I believe that helping others is a vital part of life.
