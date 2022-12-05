@@ -36,6 +36,7 @@ I Prefer **USD** (PayPal, Zelle, Wire Transfer)
 
 **(This is negotiable, just a rough estimate)**
 
+--------------------
 # Creations:
 
 ## Roblox but every second you gain +1 transparency
