@@ -92,22 +92,55 @@ I Prefer **USD** (PayPal, Zelle, Wire Transfer)
 ![image](https://user-images.githubusercontent.com/82431866/205537774-99ffb4e8-4bf2-4acc-83b1-cc32b294bee0.png)
 
 # Scripts
-![image](https://user-images.githubusercontent.com/82431866/205538544-fc4154e8-f766-43a8-a513-7d3fd304c290.png)
-
----------------
-![image](https://user-images.githubusercontent.com/82431866/205538549-326e4da5-0acd-4552-8d06-7787d5cebbd1.png)
-
----------------
-![image](https://user-images.githubusercontent.com/82431866/205538690-fd414e63-f12a-4ee4-a30a-95a240746776.png)
-
----------------
-![image](https://user-images.githubusercontent.com/82431866/205538868-d0987c60-f89d-4f63-9bfc-45d707c08ef2.png)
-
----------------
-![image](https://user-images.githubusercontent.com/82431866/205538921-4cf2312f-55f4-4ee8-a7fe-44e43641ab9a.png)
 
 ---------------
 ![image](https://user-images.githubusercontent.com/82431866/205539236-e5cff8b7-a742-4c9d-8a7e-56144e72e0d4.png)
+
+<!-- Gallery -->
+<div class="row">
+  <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+    <img
+      src="https://user-images.githubusercontent.com/82431866/205538544-fc4154e8-f766-43a8-a513-7d3fd304c290.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Boat on Calm Water"
+    />
+
+    <img
+      src="https://user-images.githubusercontent.com/82431866/205538549-326e4da5-0acd-4552-8d06-7787d5cebbd1.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Wintry Mountain Landscape"
+    />
+  </div>
+
+  <div class="col-lg-4 mb-4 mb-lg-0">
+    <img
+      src="https://user-images.githubusercontent.com/82431866/205538690-fd414e63-f12a-4ee4-a30a-95a240746776.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Mountains in the Clouds"
+    />
+
+    <img
+      src="https://user-images.githubusercontent.com/82431866/205538868-d0987c60-f89d-4f63-9bfc-45d707c08ef2.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Boat on Calm Water"
+    />
+  </div>
+
+  <div class="col-lg-4 mb-4 mb-lg-0">
+    <img
+      src="https://user-images.githubusercontent.com/82431866/205538921-4cf2312f-55f4-4ee8-a7fe-44e43641ab9a.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Waves at Sea"
+    />
+
+    <img
+      src="https://user-images.githubusercontent.com/82431866/205538921-4cf2312f-55f4-4ee8-a7fe-44e43641ab9a.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Yosemite National Park"
+    />
+  </div>
+</div>
+<!-- Gallery -->
 
 
 
