@@ -10,7 +10,6 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 - Scripting in Lua, Python, Java8, JavaScript, HTML, C++, C#, CSS, GO, and XML. (Fluent in all except XML and Java8)
 - Graphic Designer
 - GFX Maker
-- Fluent in English and Spanish
 
 # About Me
 - I am a scripter with 7+ years of experience in over 8 languages.
@@ -18,6 +17,7 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 - I respond very quickly to messages and direct messages.
 - I am always ready to learn, and not afraid of making mistakes or asking for help.
 - I believe that helping others is a vital part of life.
+- I am fluent in English and Spanish
 
 # Profiles
 [Talent Hub](https://talent.roblox.com/creators/1016351019) 
