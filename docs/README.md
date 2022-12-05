@@ -102,9 +102,10 @@ I Prefer **USD** (PayPal, Zelle, Wire Transfer)
 ![image](https://user-images.githubusercontent.com/82431866/205537774-99ffb4e8-4bf2-4acc-83b1-cc32b294bee0.png)
 ![image](https://user-images.githubusercontent.com/82431866/205731187-dc9645d5-f580-430f-9a69-b09e37712d8b.png)
 # Scripts
-https://user-images.githubusercontent.com/82431866/205538544-fc4154e8-f766-43a8-a513-7d3fd304c290.png"
-https://user-images.githubusercontent.com/82431866/205538549-326e4da5-0acd-4552-8d06-7787d5cebbd1.png"
-https://user-images.githubusercontent.com/82431866/205538690-fd414e63-f12a-4ee4-a30a-95a240746776.png"
-https://user-images.githubusercontent.com/82431866/205538868-d0987c60-f89d-4f63-9bfc-45d707c08ef2.png"
-https://user-images.githubusercontent.com/82431866/205538921-4cf2312f-55f4-4ee8-a7fe-44e43641ab9a.png"
-https://user-images.githubusercontent.com/82431866/205538921-4cf2312f-55f4-4ee8-a7fe-44e43641ab9a.png"
+
+![image](https://user-images.githubusercontent.com/82431866/205538544-fc4154e8-f766-43a8-a513-7d3fd304c290.png)
+![image](https://user-images.githubusercontent.com/82431866/205538549-326e4da5-0acd-4552-8d06-7787d5cebbd1.png)
+![image](https://user-images.githubusercontent.com/82431866/205538690-fd414e63-f12a-4ee4-a30a-95a240746776.png)
+![image](https://user-images.githubusercontent.com/82431866/205538868-d0987c60-f89d-4f63-9bfc-45d707c08ef2.png)
+![image](https://user-images.githubusercontent.com/82431866/205538921-4cf2312f-55f4-4ee8-a7fe-44e43641ab9a.png)
+![image](https://user-images.githubusercontent.com/82431866/205538921-4cf2312f-55f4-4ee8-a7fe-44e43641ab9a.png)
