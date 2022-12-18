@@ -31,15 +31,20 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 ### One-Time Project:
 
 **Robux:** *30,000-300,000 R$*
+
 **USD:** *$150-$750*
+
 **Payment Type:** *Upfront/Partial Upfront (10-100%)*
 
 *The amount of upfront payment will depend on the size and complexity of the project.*
 ### Continuous Project (Models, Scripts):
 
 **Robux Per Task:** *5,000-50,000 R$*
+
 **USD Per Task:** *$15-$150*
+
 **Commission:** *5%-50%*
+
 **Payment Type:** *Upon Completion/Upfront/Partial Upfront*
 
 *The payment terms for continuous projects will be determined on a task-by-task basis, taking into account the size and complexity of each task.*
