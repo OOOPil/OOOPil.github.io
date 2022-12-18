@@ -28,33 +28,26 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 
 # Rates
 
-### One time projects: 
+### One-Time Project:
 
 **Robux:** *30,000-300,000 R$*
-
-**USD:** *150-750 USD*
-
+**USD:** *$150-$750*
 **Payment Type:** *Upfront/Partial Upfront (10-100%)*
 
-*Depends on the project, smaller projects will be cheaper...*
+*The amount of upfront payment will depend on the size and complexity of the project.*
+### Continuous Project (Models, Scripts):
 
-------------------
-
-### Continuous projects (models, scripts): 
-
-**Robux Per Task:** *5000-50,000 R$* **AND** *5%-50%* commission.
-
-**USD Per Task:** *15-150 USD* **AND** *5%-50%* commission.
-
+**Robux Per Task:** *5,000-50,000 R$*
+**USD Per Task:** *$15-$150*
+**Commission:** *5%-50%*
 **Payment Type:** *Upon Completion/Upfront/Partial Upfront*
 
-*Depends on the task, smaller tasks will be cheaper...*
+*The payment terms for continuous projects will be determined on a task-by-task basis, taking into account the size and complexity of each task.*
 
-----------------
+---------------
+**Preferred Payment Method:** *USD* (PayPal, Zelle, Wire Transfer)
 
-I Prefer **USD** (PayPal, Zelle, Wire Transfer)
-
-**(All of my rates are negotiable, these are just a rough estimates!)**
+Note: These rates are negotiable and are meant to serve as a rough estimate. The final rate will be determined based on the specific needs and requirements of each project.
 
 # Creations:
 
