@@ -106,7 +106,10 @@ Note: These rates are negotiable and are meant to serve as a rough estimate. The
 
 [Car Spawning System](https://youtu.be/ZYbz1KXMbaM)
 
-[Tycoon System](https://youtu.be/EqbckUJ2TgQ)
+[Tycoon System 2](https://youtu.be/CSNbpXRfEtQ)
+
+[Tycoon System 1](https://youtu.be/EqbckUJ2TgQ)
+
 
 # Pictures
 
