@@ -7,7 +7,7 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 
 - Modeling
 - Moderating
-- Scripting in Lua, Python, Java8, JavaScript, HTML, C++, C#, CSS, GO, and XML. (Fluent in all except XML and Java8)
+- Scripting in Lua, Python, Java8, JavaScript, HTML, C++, C#, CSS, GO, and XML. (Fluent in all except GO, XML, and Java8)
 - Graphic Designer
 - GFX Maker
 
