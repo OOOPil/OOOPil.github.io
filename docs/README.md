@@ -7,9 +7,22 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 
 - Modeling
 - Moderating
-- Scripting in Lua, Python, Java8, JavaScript, HTML, C++, C#, CSS, GO, GDScript, Swift, PHP, and XML. (Fluent in all except GO, XML, and Java8)
 - Graphic Designer
 - GFX Maker
+#### Programmning/Markup Languages:
+- C++
+- C#
+- CSS
+- GDScript
+- GO 
+- HTML
+- Java8 
+- JavaScript
+- Lua
+- PHP
+- Python
+- Swift
+- XML
 
 # About Me
 - I am a scripter with 6+ years of experience in over 10 languages.
