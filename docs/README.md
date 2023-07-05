@@ -9,6 +9,8 @@ I have been 3D Modeling for 5+ years. I have been clothes designing for 3+ years
 - Moderating
 - Graphic Designer
 - GFX Maker
+
+  
 #### Programmning/Scripting/Markup Languages:
 - C++
 - C#
